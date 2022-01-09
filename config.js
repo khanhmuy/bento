@@ -11,26 +11,26 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'hmuy',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'gm,',
+  greetingAfternoon: 'ga,',
+  greetingEvening: 'ge,',
+  greetingNight: 'gn!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '',
+  defaultLongitude: '',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -46,21 +46,21 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Facebook',
+      icon: 'facebook',
+      link: 'https://facebook.com',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Gmail',
+      icon: 'mail',
+      link: 'https://mail.google.com/',
     },
   ],
 
@@ -88,38 +88,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'sssshawnnnn',
+        link: 'https://www.youtube.com/playlist?list=PLfYfxOO9uwT4q1T_-DlBFtoNoFjR7Q6Ao',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: '20syl',
+        link: 'https://www.youtube.com/playlist?list=PLfYfxOO9uwT6dpdUxwvn3pG5Q5-OEU22c',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'DXY',
+        link: 'https://www.youtube.com/playlist?list=PLfYfxOO9uwT6sKBEWhBu3PRWTU_A8M2NC',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'VPop',
+        link: 'https://www.youtube.com/playlist?list=PLfYfxOO9uwT7_eEJyGYWui1c58rFS394F',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'upload.systems',
+        link: 'https://upload.systems',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'hmuy.ml',
+        link: 'https://hmuy.ml',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Discord',
+        link: 'https://discord.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Top Gear',
+        link: 'https://www.youtube.com/playlist?list=PLfYfxOO9uwT7uLy_fHPUTjI2fR5GmSGqX',
       },
     ],
   },
