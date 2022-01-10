@@ -114,8 +114,8 @@ const CONFIG = {
         link: 'https://google.com',
       },
       {
-        name: 'Discord',
-        link: 'https://discord.com',
+        name: 'Cambridge Dictionary',
+        link: 'https://dictionary.cambridge.org',
       },
       {
         name: 'Top Gear',
