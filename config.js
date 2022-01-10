@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://upload.systems',
       },
       {
-        name: 'hmuy.ml',
-        link: 'https://hmuy.ml',
+        name: 'Google',
+        link: 'https://google.com',
       },
       {
         name: 'Discord',
