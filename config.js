@@ -17,13 +17,13 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'gm,',
-  greetingAfternoon: 'ga,',
-  greetingEvening: 'ge,',
-  greetingNight: 'gn!',
+  greetingMorning: 'good morning,',
+  greetingAfternoon: 'good afternoon,',
+  greetingEvening: 'good evening,',
+  greetingNight: 'good night,',
 
   // Weather
-  weatherKey: '',
+  weatherKey: 'b805605b06e09d151ba0b9b4a662a474', //let's hope no one cares about this :skull:
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
