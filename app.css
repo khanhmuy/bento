@@ -20,7 +20,7 @@
   /* Light theme  */
   --accent: #ffc0dd; /* Hover color */
   --bg: #f5f5f5; /* Background color */
-  --sbg: #e4e6e6; /* Cards color */
+  --sbg: #e4e6e6b; /* Cards color */
 
   --fg: #3a3a3a; /* Foreground color */
   --sfg: #3a3a3a; /* Sceondary Foreground color */
@@ -28,8 +28,8 @@
   /* Image background  */
   --imgbg: url(assets/background.jpg);
   --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)
+    rgba(255, 255, 255, 0.6),
+    rgba(255, 255, 255, 0.6)
   ); /* Filter color */
 }
 
@@ -37,12 +37,12 @@
 .darktheme {
   --accent: #ffc0dd; /* Hover color */
   --bg: #19171a; /* Background color */
-  --sbg: #201e21; /* Cards color */
+  --sbg: #201e216b; /* Cards color */
   --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.85),
-    rgba(0, 0, 0, 0.85)
+    rgba(0, 0, 0, 0.20),
+    rgba(0, 0, 0, 0.20)
   ); /* Filter color */
 }
 

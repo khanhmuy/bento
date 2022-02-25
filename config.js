@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'hmuy',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: false,
   twelveHourFormat: false,
 
