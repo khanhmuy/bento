@@ -165,7 +165,7 @@ const CONFIG = {
           link: 'https://upload.systems',
         },
         {
-          name: 'Cambridge Dictionary',
+          name: 'Cambridge Dict.',
           link: 'https://dictionary.cambridge.org',
         },
         {
@@ -173,8 +173,8 @@ const CONFIG = {
           link: 'https://messenger.com',
         },
         {
-          name: 'Top Gear',
-          link: 'https://www.youtube.com/playlist?list=PLfYfxOO9uwT7uLy_fHPUTjI2fR5GmSGqX',
+          name: 'osu!',
+          link: 'https://osu.ppy.sh',
         },
       ],
     },
